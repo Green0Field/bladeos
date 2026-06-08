@@ -1,0 +1,3 @@
+# These are repos for apt to download Linux Mint apps source since bladeos is based on Linux Mint
+# Uncomment the line below if you'd like to enable downloading pkg source
+#deb-src http://packages.linuxmint.com zena main upsteam import backport

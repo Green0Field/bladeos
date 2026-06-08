@@ -1,0 +1,2 @@
+# These are repos for lb to download Linux Mint apps since bladeos is based on Linux Mint
+deb http://packages.linuxmint.com zena main upsteam import backport
