@@ -3,7 +3,8 @@
 set -e
 
 lb config noauto \
-	--cache-packages "false" \
+	--apt-recommends false \
+	--cache-packages false \
 	--mode "ubuntu" \
 	--distribution "jammy" \
 	--mirror-binary "http://ubuntu.com" \
